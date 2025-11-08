@@ -12477,6 +12477,8 @@ var gear = {
       "speed": 3.5,
       "id": 55116,
       "source": "UpperKara",
+	  "skill": 5,
+      "type": "Polearm",
       "phase": 7,
       "q": 4,
       "type": "Polearm"
