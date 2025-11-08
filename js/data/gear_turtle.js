@@ -4535,7 +4535,7 @@ var gear = {
       "phase": 7,
       "source": "UpperKara",
       "q": 4,
-      "id": 69699
+      "id": 55506
     },
     {
       "name": "Marksman's Girdle",
