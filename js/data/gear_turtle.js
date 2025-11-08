@@ -2067,6 +2067,18 @@ var gear = {
       "i": 96,
       "id": 55515
     },
+	{
+      "name": "Cloak of the Bloody Ravager",
+      "haste": 2,
+	  "str": 18,
+      "sta": 14,
+      "ac": 66,
+      "source": "UpperKara",
+      "phase": 7,
+      "q": 4,
+      "i": 88,
+      "id": 55095
+    },
     {
       "name": "Cloak of the Golden Hive",
       "str": 13,
