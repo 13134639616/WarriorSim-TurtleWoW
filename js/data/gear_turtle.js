@@ -2054,6 +2054,19 @@ var gear = {
       "i": 88,
       "id": 21710
     },
+   {
+      "name": "Felforged Nathrezan Veil",
+      "hit": 1,
+	  "str": 15,
+      "sta": 15,
+      "agi": 29,
+      "ac": 74,
+      "source": "UpperKara",
+      "phase": 7,
+      "q": 4,
+      "i": 96,
+      "id": 55515
+    },
     {
       "name": "Cloak of the Golden Hive",
       "str": 13,
