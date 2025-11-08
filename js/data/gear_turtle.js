@@ -4442,8 +4442,8 @@ var gear = {
     {
       "name": "Sash of the Grand Betrayal",
       "sta": 16,
-      "ap": 52,
-      "crit": 1,
+      "ap": 44,
+      "crit": 2,
       "haste": 2,
       "phase": 7,
       "source": "UpperKara",
