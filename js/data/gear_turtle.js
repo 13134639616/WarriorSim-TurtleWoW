@@ -3562,7 +3562,7 @@ var gear = {
 	{
       "name": "Netherwrought Bracers",
       "str": 24,
-	    "agi": 20,
+	  "agi": 20,
       "ac": 459,
       "hit": 1,
       "resist": {
@@ -3576,9 +3576,10 @@ var gear = {
     },
 	{
       "name": "Bands of the Surgebreaker",
-      "sta": 25,
+      "hit": 1,
+	  "crit": 1,
+	  "sta": 25,
       "agi": 20,
-      "crit": 1,
       "ac": 211,
       "phase": 7,
       "source": "UpperKara",
