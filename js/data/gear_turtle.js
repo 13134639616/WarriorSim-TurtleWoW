@@ -12,6 +12,19 @@ var gear = {
       "i": 66,
       "id": 47240
     },
+	{
+      "name": "Forgotten Hide Helm",
+      "crit": 2,
+      "str": 35,
+	  "agi": 22,
+      "sta": 22,
+      "ac": 366,
+      "source": "UpperKara",
+      "phase": 7,
+      "q": 4,
+      "i": 92,
+      "id": 55119
+    },
     {
       "name": "Crown of Wrath",
       "str": 32,
