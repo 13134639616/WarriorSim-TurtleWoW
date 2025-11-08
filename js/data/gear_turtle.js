@@ -133,6 +133,19 @@ var gear = {
       "i": 58,
       "id": 60573
     },
+	{
+      "name": "Crown of the Wildpack",
+      "source": "UpperKara",
+      "ac": 449,
+      "sta": 23,
+	  "agi": 40,
+      "hit": 1,
+      "haste": 2,
+      "phase": 7,
+      "q": 4,
+      "i": 88,
+      "id": 55083
+    },
     {
       "name": "Towerforge Crown",
       "source": "Crafting",
