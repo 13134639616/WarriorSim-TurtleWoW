@@ -59,6 +59,7 @@ var gear = {
       "phase": 7,
       "source": "UpperKara",
       "q": 4,
+	  "i": 92,
       "id": 47270
     },
 	  {
@@ -72,6 +73,7 @@ var gear = {
       "ac": 834,
       "phase": 7,
       "q": 4,
+	  "i": 92,
       "id": 55113
     },
     {
@@ -1243,6 +1245,7 @@ var gear = {
       "phase": 7,
       "source": "UpperKara",
       "q": 4,
+	  "i": 92,
       "id": 47271
     },
     {
@@ -1255,6 +1258,7 @@ var gear = {
       "phase": 7,
       "source": "UpperKara",
       "q": 4,
+	  "i": 88,
       "id": 55108
     },
     {
@@ -3812,7 +3816,7 @@ var gear = {
       "name": "Dragonclaw Gauntlets",
       "source": "UpperKara",
       "str": 28,
-	    "sta": 18,
+	  "sta": 18,
       "hit": 1,
       "haste": 1,
       "ac": 615,
