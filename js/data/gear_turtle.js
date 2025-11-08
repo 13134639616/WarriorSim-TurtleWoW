@@ -4505,6 +4505,7 @@ var gear = {
       "phase": 7,
       "source": "UpperKara",
       "q": 4,
+	  "i": 96,
       "id": 55357
     },
 	  {
@@ -5749,9 +5750,9 @@ var gear = {
       "ac": 148,
       "source": "Crafting",
       "phase": 1,
-      "q": 3,
-      "i": 60,
-      "id": 15062
+      "q": 3,7
+      "i": 88,
+      "id": 55109
     },
     {
       "name": "Eldritch Reinforced Legplates",
@@ -5786,6 +5787,18 @@ var gear = {
       "agi": 31,
       "ac": 211,
       "source": "Naxx",
+      "phase": 6,
+      "q": 4,
+      "i": 83,
+      "id": 23071
+    },
+	 {
+      "name": "Legwraps of Meticulous Planning",
+      "str": 31,
+      "sta": 25,
+      "agi": 26,
+      "ac": 271,
+      "source": "UpperKara",
       "phase": 6,
       "q": 4,
       "i": 83,
