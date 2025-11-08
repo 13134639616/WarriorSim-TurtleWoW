@@ -859,7 +859,17 @@ var gear = {
 	    "arp": 50,
       "phase": 7,
       "q": 4,
+	  "i": 96,
       "id": 47275
+	 {
+      "name": "Choker of Terminal Arcanum",
+      "source": "UpperKara",
+      "agi": 15,
+      "haste": 2,
+      "phase": 7,
+      "q": 4,
+	  "i": 88,
+      "id": 55507
     },
     {
       "name": "Bixxle's Necklace of Mastery",
