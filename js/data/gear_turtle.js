@@ -2973,6 +2973,18 @@ var gear = {
       "i": 78,
       "id": 23226
     },
+	{
+      "name": "Ravenkeeper's Frenzied Embrace",
+      "crit": 2,
+      "str": 20,
+      "agi": 45,
+      "ac": 253,
+      "source": "UpperKara",
+      "phase": 7,
+      "q": 4,
+      "i": 88,
+      "id": 55079
+    },
 	 {
       "name": "Tunic of Demonic Deception",
       "arp": 40,
@@ -2982,7 +2994,7 @@ var gear = {
       "sta": 21,
       "ac": 271,
       "source": "UpperKara",
-      "phase": 6,
+      "phase": 7,
       "q": 4,
       "i": 96,
       "id": 55513
