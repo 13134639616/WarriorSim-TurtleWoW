@@ -3773,6 +3773,7 @@ var gear = {
       "phase": 7,
       "source": "AQ40",
       "q": 4,
+	  "i": 81,
       "id": 55553
     },
     {
@@ -3791,6 +3792,7 @@ var gear = {
       "phase": 7,
       "source": "AQ40",
       "q": 4,
+	  "i": 81,
       "id": 55554
     },
 	{
@@ -3806,7 +3808,8 @@ var gear = {
       },
       "phase": 7,
       "q": 4,
-      "id": 55103 //fix id 
+	  "i": 88,
+      "id": 55088
     },
     {
       "name": "Blooddrenched Grips",
