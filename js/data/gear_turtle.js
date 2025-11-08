@@ -5223,6 +5223,7 @@ var gear = {
       "phase": 7,
       "source": "UpperKara",
       "q": 4,
+	  "i": 92,
       "id": 47273
     },
     {
@@ -6051,6 +6052,7 @@ var gear = {
       "phase": 7,
       "source": "UpperKara",
       "q": 4,
+	  "i": 88,
       "id": 47274
     },
     {
