@@ -5509,6 +5509,20 @@ var gear = {
       "i": 78,
       "id": 61239
     },
+	 {
+      "name": "Earthquake Leggings",
+      "agi": 30,
+      "str": 22,
+      "skill": 6,
+      "type": "2H Axe",
+      "crit": 1,
+      "ac": 506,
+      "source": "UpperKara",
+      "phase": 7,
+      "q": 4,
+      "i": 78,
+      "id": 55122
+    },
     {
       "name": "Flamewrath Leggings",
       "str": 25,
