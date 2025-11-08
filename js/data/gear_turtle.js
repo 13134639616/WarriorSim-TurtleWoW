@@ -12468,6 +12468,19 @@ var gear = {
       "q": 4,
       "type": "Mace"
     },
+	 {
+      "name": "Raka'shishi, Spear of the Adrift Hunt",
+      "agi": 31,
+	  "sta": 41,
+      "mindmg": 277,
+      "maxdmg": 423,
+      "speed": 3.5,
+      "id": 55116,
+      "source": "UpperKara",
+      "phase": 7,
+      "q": 4,
+      "type": "Polearm"
+    },
     {
       "name": "Shar'tateth, the Shattered Edge",
       "agi": 25,
