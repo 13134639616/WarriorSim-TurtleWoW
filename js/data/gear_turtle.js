@@ -2973,6 +2973,20 @@ var gear = {
       "i": 78,
       "id": 23226
     },
+	 {
+      "name": "Tunic of Demonic Deception",
+      "arp": 40,
+	  "crit": 2,
+	  "hit": 1,
+      "str": 22,
+      "sta": 21,
+      "ac": 271,
+      "source": "UpperKara",
+      "phase": 6,
+      "q": 4,
+      "i": 96,
+      "id": 55513
+    },
     {
       "name": "Malfurion's Blessed Bulwark",
       "str": 40,
