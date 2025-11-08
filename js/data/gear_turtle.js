@@ -6026,6 +6026,20 @@ var gear = {
       "i": 66,
       "id": 47247
     },
+	{
+      "name": "Ash-Forged Greaves",
+      "str": 16,
+	  "sta": 7,
+      "agi": 15,
+      "ac": 502,
+	  "skill": 5,
+      "type": "Sword"
+      "phase": 1,
+      "source": "MC",
+      "q": 4,
+      "i": 66,
+      "id": 58215
+    },
     {
       "name": "Sabatons of Wrath",
       "str": 21,
