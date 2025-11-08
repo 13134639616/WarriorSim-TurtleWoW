@@ -3571,7 +3571,20 @@ var gear = {
       "phase": 7,
       "source": "UpperKara",
       "q": 4,
+	  "i": 96,
       "id": 55356
+    },
+	{
+      "name": "Bands of the Surgebreaker",
+      "sta": 25,
+      "agi": 20,
+      "crit": 1,
+      "ac": 211,
+      "phase": 7,
+      "source": "UpperKara",
+      "q": 4,
+	  "i": 88,
+      "id": 55089
     },
     {
       "name": "Gordok Bracers of Power",
@@ -3740,6 +3753,7 @@ var gear = {
       "phase": 7,
       "source": "UpperKara",
       "q": 4,
+	  "i": 92,
       "id": 55125
     },
     {
