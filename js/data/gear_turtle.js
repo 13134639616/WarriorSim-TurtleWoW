@@ -8561,6 +8561,17 @@ var gear = {
       "i": 72,
       "id": 21459
     },
+	{
+      "name": "Phase-shifting Crossbow",
+      "hit": 1,
+	  "crit": 1,
+      "str": 9,
+      "source": "UpperKara",
+      "phase": "7",
+      "q": 4,
+      "i": 88,
+      "id": 55096
+    },
     {
       "name": "Fahrad's Reloading Repeater",
       "hit": 1,
