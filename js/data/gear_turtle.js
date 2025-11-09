@@ -10858,6 +10858,7 @@ var gear = {
       "source": "UpperKara",
       "phase": 7,
       "q": 4,
+	  "i": 92,
       "id": 55347
     },
     {
@@ -12655,6 +12656,7 @@ var gear = {
       "mindmg": 273,
       "maxdmg": 419,
       "speed": 3.7,
+	  "i": 88,
       "id": 55100,
       "source": "UpperKara",
       "phase": 7,
@@ -12686,6 +12688,7 @@ var gear = {
       "maxdmg": 453,
       "speed": 3.8,
       "id": 55127,
+	   "i": 92,
       "source": "UpperKara",
       "phase": 7,
       "q": 4,
