@@ -1221,6 +1221,19 @@ var gear = {
       "id": 47241
     },
 	{
+      "name": "Taut Dragonhide Shoulderpads",
+      "sta": 18,
+      "ac": 170,
+      "ap": 46,
+	  "skill": 5,
+      "type": "Mace",
+      "phase": 7,
+      "source": "BWL",
+      "q": 4,
+      "i": 77,
+      "id": 19389
+    },
+	{
       "name": "Black Brood Pauldrons",
       "sta": 12,
 	  "agi": 17,
