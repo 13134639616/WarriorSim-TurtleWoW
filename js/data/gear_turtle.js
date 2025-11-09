@@ -1220,6 +1220,20 @@ var gear = {
       "i": 66,
       "id": 47241
     },
+	{
+      "name": "Black Brood Pauldrons",
+      "sta": 12,
+	  "agi": 17,
+      "str": 14,
+      "ac": 357,
+	  "skill": 7,
+      "type": "Sword"
+      "phase": 7,
+      "source": "BWL",
+      "q": 4,
+      "i": 75,
+      "id": 19373
+    },
     {
       "name": "Pauldrons of Wrath",
       "str": 21,
