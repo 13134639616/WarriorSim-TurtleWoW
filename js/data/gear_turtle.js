@@ -12017,6 +12017,7 @@ var gear = {
       "source": "UpperKara",
       "phase": 7,
       "q": 4,
+	  "i": 83,
       "id": 55133
     },
     {
