@@ -1864,6 +1864,22 @@ var gear = {
       "i": 65,
       "id": 60488
     },
+	{
+      "name": "Wing of the Time-Lord",
+      "haste": 1,
+	  "str": 11,
+	  "agi": 11,
+	  "str": 8,
+	  "source": "Dungeon",
+      "phase": "1",
+      "q": 4,
+      "i": 65,
+      "id": 61010,
+      "proc": {
+        "chance": 1,
+        "extra": 1
+      }
+    },
     {
       "name": "Shroud of Haunted Torment",
       "haste": 2,
