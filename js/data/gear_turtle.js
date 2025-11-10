@@ -3058,7 +3058,7 @@ var gear = {
     },
 	 {
       "name": "Tunic of Demonic Deception",
-      "arp": 40,
+      "arp": 75,
 	  "crit": 2,
 	  "hit": 1,
       "str": 22,
