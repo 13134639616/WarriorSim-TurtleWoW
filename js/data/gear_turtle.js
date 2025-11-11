@@ -2018,19 +2018,6 @@ var gear = {
       "id": 83486
     },
     {
-      "name": "Wing of the Time-Lord",
-      "sta": 8,
-      "str": 11,
-      "agi": 11,
-      "haste": 1,
-      "ac": 50,
-      "source": "Other",
-      "phase": 7,
-      "q": 4,
-      "i": 65,
-      "id": 61010
-    },
-    {
       "name": "Quel'dorei/Revantusk Honored Cloak",
       "str": 9,
       "agi": 9,
@@ -3063,6 +3050,7 @@ var gear = {
 	  "hit": 1,
       "str": 22,
       "sta": 21,
+	  "agi": 34,
       "ac": 271,
       "source": "UpperKara",
       "phase": 7,
