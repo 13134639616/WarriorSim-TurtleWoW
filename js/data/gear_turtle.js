@@ -13278,9 +13278,9 @@ var gear = {
     },
     {
       "name": "Spinal Reaper",
-      "ap": 34,
-      "mindmg": 203,
-      "maxdmg": 305,
+      "ap": 36,
+      "mindmg": 206,
+      "maxdmg": 310,
       "speed": 3.4,
       "id": 17104,
       "source": "MC",
