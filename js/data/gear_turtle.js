@@ -6739,6 +6739,7 @@ var gear = {
       "phase": 7,
       "source": "UpperKara",
       "q": 4,
+	  "i": 96,
       "id": 55353
     },
     {
@@ -6752,7 +6753,8 @@ var gear = {
       "phase": 7,
       "source": "UpperKara",
       "q": 4,
-      "id": 55666
+	  "i": 83,
+      "id": 55508
     },
     {
       "name": "Loop of Hardened Slate",
@@ -12681,6 +12683,7 @@ var gear = {
       "maxdmg": 423,
       "speed": 3.5,
       "id": 55116,
+	  "i": 92,
       "source": "UpperKara",
 	  "skill": 5,
       "type": "Polearm",
