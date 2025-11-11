@@ -7241,7 +7241,8 @@ var gear = {
       "phase": 7,
       "source": "UpperKara",
       "q": 4,
-      "id": 55666
+	  "i": 83,
+      "id": 55508
     },
     {
       "name": "Loop of Hardened Slate",
@@ -7250,6 +7251,7 @@ var gear = {
       "source": "UpperKara",
       "q": 4,
       "phase": 7,
+	  "i": 92,
       "id": 55123
     },
     {
