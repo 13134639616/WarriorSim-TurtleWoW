@@ -2189,8 +2189,9 @@ var gear = {
     {
       "name": "Cloak of the Shrouded Mists",
       "sta": 12,
-      "agi": 22,
-      "ac": 57,
+      "agi": 26,
+      "ac": 58,
+	  "haste": 1,
       "resist": {
         "fire": 6,
         "nature": 6
