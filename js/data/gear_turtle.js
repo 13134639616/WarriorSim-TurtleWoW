@@ -1869,7 +1869,7 @@ var gear = {
       "haste": 1,
 	  "str": 11,
 	  "agi": 11,
-	  "str": 8,
+	  "sta": 8,
 	  "source": "Dungeon",
       "phase": "1",
       "q": 4,
