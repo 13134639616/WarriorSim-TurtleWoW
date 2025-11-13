@@ -5826,9 +5826,9 @@ var gear = {
       "ac": 148,
       "source": "Crafting",
       "phase": 1,
-      "q": 3,7
-      "i": 88,
-      "id": 55109
+      "q": 3,
+      "i": 60,
+      "id": 15062
     },
     {
       "name": "Eldritch Reinforced Legplates",
@@ -5875,10 +5875,10 @@ var gear = {
       "agi": 26,
       "ac": 271,
       "source": "UpperKara",
-      "phase": 6,
+      "phase": 7,
       "q": 4,
-      "i": 83,
-      "id": 23071
+      "i": 88,
+      "id": 55109
     },
     {
       "name": "Legguards of the Fallen Crusader",
