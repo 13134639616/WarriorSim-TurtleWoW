@@ -12706,7 +12706,7 @@ var gear = {
 	  "sta": 41,
       "mindmg": 277,
       "maxdmg": 423,
-      "speed": 3.5,
+      "speed": 3.7,
       "id": 55116,
 	  "i": 92,
       "source": "UpperKara",
