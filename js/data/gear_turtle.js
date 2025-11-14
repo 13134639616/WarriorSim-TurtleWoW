@@ -5302,10 +5302,11 @@ var gear = {
       "name": "Slime-coated Leggings",
       "ac": 432,
       "sta": 28,
+	  "agi": 27,
+	  "crit": 1,
       "resist": {
         "nature": 28,
       },
-      "ap": 40,
       "skill": 5,
       "type": "Polearm",
       "source": "AQ40",
