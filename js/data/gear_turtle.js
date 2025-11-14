@@ -3855,6 +3855,20 @@ var gear = {
 	  "i": 81,
       "id": 55554
     },
+	  {
+      "name": "Toughened Silithid Hide Gloves",
+      "agi": 15,
+      "sta": 18,
+	  "str": 11,
+      "ac": 182,
+      "skill": 5,
+      "type": "Sword"
+      "phase": 7,
+      "source": "AQ20",
+      "q": 3,
+	  "i": 71,
+      "id": 21501
+    },
 	{
       "name": "Dragonclaw Gauntlets",
       "source": "UpperKara",
@@ -4301,7 +4315,7 @@ var gear = {
       "crit": 1,
       "sta": 6,
       "ap": 54,
-      "ac": 488,
+      "ac": 275,
       "skill": 7,
       "type": "2H Axe",
       "source": "MC",
