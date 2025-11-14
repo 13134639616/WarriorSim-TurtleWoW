@@ -3874,11 +3874,12 @@ var gear = {
       "source": "UpperKara",
       "str": 28,
 	  "sta": 18,
+	  "agi": 10,
       "hit": 1,
       "haste": 1,
       "ac": 615,
       "resist": {
-        "fire": 15
+        "fire": 10
       },
       "phase": 7,
       "q": 4,
