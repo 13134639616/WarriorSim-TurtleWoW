@@ -207,6 +207,7 @@ var gear = {
       },
       "phase": 7,
       "q": 3,
+	  "i": 78,
       "id": 55522
     },
     {
@@ -222,6 +223,7 @@ var gear = {
       },
       "phase": 7,
       "q": 3,
+	  "i": 78,
       "id": 55530
     },
     {
@@ -861,6 +863,7 @@ var gear = {
       "q": 4,
 	  "i": 96,
       "id": 47275
+	 },
 	 {
       "name": "Choker of Terminal Arcanum",
       "source": "UpperKara",
@@ -1240,7 +1243,7 @@ var gear = {
       "str": 14,
       "ac": 357,
 	  "skill": 7,
-      "type": "Sword"
+      "type": "Sword",
       "phase": 7,
       "source": "BWL",
       "q": 4,
@@ -1310,6 +1313,7 @@ var gear = {
       },
       "phase": 7,
       "q": 3,
+	  "i": 78,
       "id": 55523
     },
     {
@@ -1325,6 +1329,7 @@ var gear = {
       },
       "phase": 7,
       "q": 3,
+	  "i": 78,
       "id": 55531
     },
     {
@@ -2439,6 +2444,7 @@ var gear = {
       },
       "phase": 7,
       "q": 3,
+	  "i": 78,
       "id": 55524
     },
     {
@@ -2454,6 +2460,7 @@ var gear = {
       },
       "phase": 7,
       "q": 3,
+	  "i": 78,
       "id": 55532
     },
     {
@@ -3862,7 +3869,7 @@ var gear = {
 	  "str": 11,
       "ac": 182,
       "skill": 5,
-      "type": "Sword"
+      "type": "Sword",
       "phase": 7,
       "source": "AQ20",
       "q": 3,
@@ -5299,6 +5306,7 @@ var gear = {
       },
       "phase": 7,
       "q": 3,
+	  "i": 78,
       "id": 55525
     },
     {
@@ -5313,6 +5321,7 @@ var gear = {
       },
       "phase": 7,
       "q": 3,
+	  "i": 78,
       "id": 55533
     },
     {
@@ -5322,7 +5331,7 @@ var gear = {
 	  "agi": 27,
 	  "crit": 1,
       "resist": {
-        "nature": 28,
+        "nature": 28
       },
       "skill": 5,
       "type": "Polearm",
@@ -6084,7 +6093,7 @@ var gear = {
       "agi": 15,
       "ac": 502,
 	  "skill": 5,
-      "type": "Sword"
+      "type": "Sword",
       "phase": 1,
       "source": "MC",
       "q": 4,
@@ -7822,6 +7831,7 @@ var gear = {
       "source": "SCitadel",
       "phase": "7",
       "q": 4,
+	  "i": 60,
       "id": 84006
     },
     {
