@@ -578,6 +578,7 @@ class Player {
                         this.auras.defforecast = new DefForecast(this);
                         this.auras.gladforecast = new GladForecast(this);
                     }
+                    if (bonus.stats.armsofthaurissan) this.auras.unrelentingstrikes = new UnrelentingStrikes(this);
                     if (bonus.stats.altmightthreeset) this.altmightthreeset = true;
                     if (bonus.stats.altmightfiveset) this.altmightfiveset = true;
                     if (bonus.stats.altdreadnaughttwoset) this.altdreadnaughttwoset = true;
@@ -983,6 +984,9 @@ class Player {
             this.stats.haste *= (1 + this.auras.crusaderzeal.mult_stats.haste / 100);
         if (this.auras.obsidianhaste && this.auras.obsidianhaste.timer)
             this.stats.haste *= (1 + this.auras.obsidianhaste.mult_stats.haste / 100);
+        if (this.auras.unrelentingstrikes && this.auras.unrelentingstrikes.timer)
+            this.stats.haste *= (1 + this.auras.unrelentingstrikes.mult_stats.haste / 100);
+
 
     }
     updateHasteDamage() {
@@ -1330,6 +1334,7 @@ class Player {
         if (this.auras.obsidianhaste && this.auras.obsidianhaste.timer) this.auras.obsidianhaste.step();
         if (this.auras.obsidianstrength && this.auras.obsidianstrength.timer) this.auras.obsidianstrength.step();
         if (this.auras.shieldrender && this.auras.shieldrender.timer) this.auras.shieldrender.step();
+        if (this.auras.unrelentingstrikes && this.auras.unrelentingstrikes.timer) this.auras.unrelentingstrikes.step();
 
         if (this.mh.windfury && this.mh.windfury.timer) this.mh.windfury.step();
         if (this.trinketproc1 && this.trinketproc1.spell && this.trinketproc1.spell.timer) this.trinketproc1.spell.step();
@@ -1411,6 +1416,7 @@ class Player {
         if (this.auras.obsidianhaste && this.auras.obsidianhaste.timer) this.auras.obsidianhaste.end();
         if (this.auras.obsidianstrength && this.auras.obsidianstrength.timer) this.auras.obsidianstrength.end();
         if (this.auras.shieldrender && this.auras.shieldrender.timer) this.auras.shieldrender.end();
+        if (this.auras.unrelentingstrikes && this.auras.unrelentingstrikes.timer) this.auras.unrelentingstrikes.end();
 
         if (this.mh.windfury && this.mh.windfury.timer) this.mh.windfury.end();
         if (this.trinketproc1 && this.trinketproc1.spell && this.trinketproc1.spell.timer) this.trinketproc1.spell.end();
@@ -1906,6 +1912,9 @@ class Player {
             this.auras.flurry.proc();
         if (!spell && this.mh.windfury && this.mh.windfury.stacks)
             this.mh.windfury.proc();
+        if (this.extraattacks > 0 && this.auras.unrelentingstrikes && !this.auras.unrelentingstrikes.timer) { 
+            this.auras.unrelentingstrikes.use();
+        }
         return procdmg;
     }
     phantomproc(weapon) {

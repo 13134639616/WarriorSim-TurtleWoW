@@ -3462,3 +3462,27 @@ use() {
     }
 }
 
+class UnrelentingStrikes extends Aura {
+    constructor(player, id) {
+        super(player, id);
+        this.duration = 6;
+        this.mult_stats = { haste: 10 };
+        this.name = 'Unrelenting Strikes';
+    }
+    use() {
+        if (this.timer) this.uptime += (step - this.starttimer);
+        this.timer = step + this.duration * 1000;
+        this.starttimer = step;
+        this.player.updateHaste();
+        /* start-log */ if (this.player.logging) this.player.log(`${this.name} applied`); /* end-log */
+    }
+    step() {
+        if (step >= this.timer) {
+            this.uptime += (this.timer - this.starttimer);
+            this.timer = 0;
+            this.firstuse = false;
+            this.player.updateHaste();
+            /* start-log */ if (this.player.logging) this.player.log(`${this.name} removed`); /* end-log */
+        }
+    }
+}
