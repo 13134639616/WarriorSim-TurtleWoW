@@ -31,6 +31,19 @@ var gear = {
       "i": 76,
       "id": 47248
     },
+	  {
+      "name": "Crown of the Wildpack",
+      "source": "UpperKara",
+      "ac": 449,
+      "sta": 23,
+	  "agi": 40,
+      "hit": 1,
+      "haste": 2,
+      "phase": 7,
+      "q": 4,
+      "i": 88,
+      "id": 55083
+    },
     {
       "name": "Dreadnaught Crown",
       "str": 26,
@@ -2218,8 +2231,9 @@ var gear = {
     {
       "name": "Cloak of the Shrouded Mists",
       "sta": 12,
-      "agi": 22,
-      "ac": 57,
+      "agi": 26,
+      "ac": 58,
+	  "haste": 1,
       "resist": {
         "fire": 6,
         "nature": 6
@@ -6027,6 +6041,18 @@ var gear = {
       "q": 4,
       "i": 83,
       "id": 23071
+    },
+	   {
+      "name": "Legwraps of Meticulous Planning",
+      "str": 31,
+      "sta": 25,
+      "agi": 26,
+      "ac": 271,
+      "source": "UpperKara",
+      "phase": 7,
+      "q": 4,
+      "i": 88,
+      "id": 55109
     },
     {
       "name": "Legguards of the Fallen Crusader",
@@ -13175,15 +13201,15 @@ var gear = {
       "sta": 41,
       "agi": 31,
       "skill": 5,
+	  "type": "Polearm",
       "mindmg": 277,
       "maxdmg": 423,
       "speed": 3.7,
-      "id": 55116,
+      "id": 55116,	
       "source": "UpperKara",
       "phase": 7,
       "q": 4,
       "i": 92,
-      "type": "Polearm"
     },
     {
       "name": "Aspect of Seradane",
